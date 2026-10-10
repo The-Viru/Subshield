@@ -1,0 +1,5 @@
+{
+  "name": "SubShield",
+  "description": "Track subscriptions, manage free trials, and prevent financial leakage.",
+  "requestFramePermissions": []
+}
